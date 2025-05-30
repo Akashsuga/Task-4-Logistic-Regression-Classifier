@@ -7,7 +7,7 @@ Build a binary classifier using Logistic Regression to predict whether a tumor i
 ---
 
 # Project Contents
-- data — Original dataset ( Breast Cancer Wisconsin ) used for this model 
+- data.csv — Original dataset ( Breast Cancer Wisconsin ) used for this model 
 - logistic_classifier.py — Python script for all preprocessing + visualizations + Linear Regression
 - Visual Images — Folder containing all visual plots
 - README.md — This documentation
