@@ -1,4 +1,4 @@
-# Task 4: Logistic Regression Classifier — AI & ML Internship
+# Task 4: Logistic Regression Classifier 
 
 ## Objective
 
